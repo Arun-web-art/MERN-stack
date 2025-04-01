@@ -1,2 +1,2 @@
-# MERN-stack
-This is a full stack app 
+# HTML CODE
+This is a app 
